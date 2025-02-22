@@ -285,4 +285,4 @@ Here we are visualizing the change in population in different countries with dro
 
 - Blue Dots: Represent the increase based on over the years
 - Red Dots: Represent the prediction for the next (7 years)
-<iframe src="E:/Projects/python/EDA/GlobalMatrices/Population/population.html"></iframe>
+<iframe src="https://github.com/ayoubzulfiqar/ExploratoryDataAnalysis/blob/main/GlobalMatrices/Population/population.html"></iframe>
