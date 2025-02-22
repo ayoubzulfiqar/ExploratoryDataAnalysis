@@ -1,16 +1,14 @@
 # World Population Analysis
   World Population Analysis from 1960 to 2023
   - [Data Source](http://api.worldbank.org/countries/all/indicators/SP.POP.TOTL)
-  
-### Objectives
- - Global Population Changes OverTime (Annual Growth Rate)
- - Identifying slowest and fastest growing counties
- - Identification of population density
- - Future Population Prediction
 
----
 
-## Growth Rate Analysis
+
+
+### Growth Rate Analysis
+
+This shows the growth rate of different countries and percentage increase overtime since 1960
+
 | **Country**                                              | **Population-1960** | **Population-2023** | **Total Increase** | **Growth Rate** |
 | -------------------------------------------------------- | ------------------- | ------------------- | ------------------ | --------------- |
 | **Afghanistan**                                          | 9035043.0           | 41454761.0          | 32419718.0         | 3.6%            |
@@ -283,3 +281,8 @@
 ---
 
 ### Visualization
+Here we are visualizing the change in population in different countries with drop down button you can see the population increase overtime.
+
+- Blue Dots: Represent the increase based on over the years
+- Red Dots: Represent the prediction for the next (7 years)
+<iframe src="E:/Projects/python/EDA/GlobalMatrices/Population/population.html"></iframe>
