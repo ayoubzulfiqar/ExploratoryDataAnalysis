@@ -5,5 +5,5 @@
 ## **Global Matrices**
  - [GlobalDataAnalysis](GlobalMatrices)
 1. **Population Analysis**
-    - - [GlobalDataAnalysis](GlobalMatrices/Population)
-<iframe src="https://github.com/ayoubzulfiqar/ExploratoryDataAnalysis/blob/main/GlobalMatrices/Population/population.html"></iframe>
+ - [GlobalDataAnalysis](GlobalMatrices/Population)
+
