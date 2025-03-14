@@ -4,6 +4,6 @@
 
 ## **Global Matrices**
  - [GlobalDataAnalysis](GlobalMatrices)
-1. **Population Analysis**
- - [GlobalDataAnalysis](GlobalMatrices/Population)
+    - [Population](GlobalMatrices/Population)
+ 
 
