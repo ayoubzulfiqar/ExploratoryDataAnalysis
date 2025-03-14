@@ -281,9 +281,5 @@ This shows the growth rate of different countries and percentage increase overti
 ---
 
 ### Visualization
-Here we are visualizing the change in population in different countries with drop down button you can see the population increase overtime.
 
-- Blue Dots: Represent the increase based on over the years
-- Red Dots: Represent the prediction for the next (7 years)
-<iframe src="https://github.com/ayoubzulfiqar/ExploratoryDataAnalysis/blob/main/GlobalMatrices/Population/population.html"></iframe>
 
